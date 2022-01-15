@@ -1,5 +1,6 @@
 # if-amp-tia
-Termination insensitive IF amplifier board (dual TIA)
+Termination insensitive IF amplifier board (two independent amplifiers on single board)
+Powering: +12V regulated input. Board currently untested (01/2022), waiting for prototypes to arrive:)
 
 PCB layout by Lasse OH3HZB (2022), based on work by Jan OM2ATC.
 Original design by Wes Hayward W7ZOI and Bob Kopski K3NHI.
