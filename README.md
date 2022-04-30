@@ -1,5 +1,5 @@
 # if-amp-tia
-Termination insensitive IF amplifier board (two independent amplifiers on single board)
+Termination insensitive IF amplifier board (two independent UNIdirectional amplifiers on single board)
 Powering: +12V regulated input.
 
 PCB layout by Lasse OH3HZB (2022), based on work by Jan OM2ATC.
